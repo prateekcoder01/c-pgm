@@ -1,2 +1,3 @@
-# c-pgm
-C programming
+thislist = ["apple", "banana", "cherry"]
+print(thislist)
+
